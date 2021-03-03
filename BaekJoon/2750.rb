@@ -17,4 +17,3 @@ for i in 0...data.length
 end
 
 puts data
-
