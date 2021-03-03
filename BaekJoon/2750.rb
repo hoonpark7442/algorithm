@@ -16,5 +16,5 @@ for i in 0...data.length
 	data[lowest], data[i] = data[i], data[lowest]
 end
 
-p data
+puts data
 
