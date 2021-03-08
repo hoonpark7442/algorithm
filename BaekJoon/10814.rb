@@ -11,6 +11,6 @@ for _ in 0...n
 	array.push(data)
 end
 
-sorted_arr = array.sort_by{|el| el[0].to_i}
+sorted_arr = array.sort_by{|el| el[0]}
 
 p sorted_arr
