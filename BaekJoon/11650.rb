@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/11650
-# 좌표 정렬하기
+# 좌표 정렬하기 
 
 n = gets.to_i
 
